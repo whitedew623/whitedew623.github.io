@@ -14,7 +14,7 @@ header{
     text-align: center;
     z-index:99;
 }
-.title1 {
+.title1 h1{
     color:black;
     transition: color 0.5s ease; /* 添加颜色过渡效果 */
 }
